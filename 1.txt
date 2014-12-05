@@ -1,3 +1,4 @@
+newmerge
 hello
 bye
 go somewhere
