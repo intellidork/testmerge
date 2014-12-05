@@ -1,4 +1,6 @@
 hellonewmerge
 hello
+dance
 bye
-go somewhere
+go somewhere3
+go somewherenowhere
